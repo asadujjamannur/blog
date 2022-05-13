@@ -3,6 +3,6 @@ php artisan make:controller controllerName
 
 
 13/05/2022
-view blog
-add assets
-section
+view blog-creat file inside view folder
+add assets-put all asset to public then access from html
+section-
