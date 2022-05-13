@@ -1,0 +1,8 @@
+creat project
+php artisan make:controller controllerName
+
+
+13/05/2022
+view blog
+add assets
+section
