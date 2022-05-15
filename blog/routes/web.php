@@ -16,3 +16,4 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', 'master@master');
+Route::get('/blog', 'master@blogPage');
