@@ -10,6 +10,8 @@
 
 
         @include('backend/sidebar')
+
+        @include('backend/rightfooter')
         @yield('backendDynamic')
 
         <!-- ============================================================== -->
