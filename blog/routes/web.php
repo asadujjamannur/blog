@@ -15,5 +15,15 @@ use Illuminate\Support\Facades\Route;
 
 
 
+// Route::get('/backend', function(){
+//     return view('backend/calender');
+// });
+
+
+
 Route::get('/', 'master@master');
 Route::get('/blog', 'master@blogPage');
+
+Route::get('/dashboard', 'backendController@backend');
+
+
