@@ -14,4 +14,11 @@ laravel mix for react.js
 15/05/2022
 dashboard
 model elo
-crud
+crud\
+
+
+
+16052022
+
+php artisan make:model latestBlog -m
+php artisan migrate:fresh
