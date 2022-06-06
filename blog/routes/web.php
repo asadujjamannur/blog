@@ -24,4 +24,5 @@ Route::get('/', 'master@master');
 Route::get('/blog', 'master@blogPage');
 
 Route::get('/dashboard', 'backendController@backend');
+Route::get('/create', 'backendController@create');
 

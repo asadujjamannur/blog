@@ -22,3 +22,9 @@ crud\
 
 php artisan make:model latestBlog -m
 php artisan migrate:fresh
+
+06062022
+crud creat
+table creat
+make form on master
+    @csrf token
